@@ -16,4 +16,6 @@
 
 <resources>
     <item name="fingerprint_sensor_location_fraction_y" type="fraction">70%</item>
+	<!-- PEX Maintainer -->
+    <string name="pex_maintainer_name" translatable="false">CZB666-wdnmd</string>
 </resources>
